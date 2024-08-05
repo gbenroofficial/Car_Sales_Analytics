@@ -5,7 +5,7 @@ Project analyst questions and solutions
 ## Please give an overview of sales for 2004. Breakdown by product, country, and city. Include sales value, cost of sales and net profit in 2004.
 
 
-### Initial command with SQL:
+### SQL:
 
 select t1.orderDate, t1.orderNumber, priceEach, buyPrice, productLine, productName, country, city <br />
 from orders t1 <br />
