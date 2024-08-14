@@ -1,5 +1,5 @@
 # Car_Sales_Analytics
-Analytics project describing a car sales data. <br />
+Analytics project describing a car sales data using Excel and SQL. <br />
 - Please view excel charts and tables of solutions by downloading file named query1.xls <br />
 - To have a copy of database for checking SQL commands you can copy the script from Script+for+Classic+Models.txt and run in MySQL workbench to create database <br />
 Project analyst questions and solutions
